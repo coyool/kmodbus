@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hellokotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/hellokotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hellokotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hellokotlin_main.iml" group="hellokotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hellokotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hellokotlin_test.iml" group="hellokotlin" />
+    </modules>
+  </component>
+</project>
