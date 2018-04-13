@@ -1,11 +1,16 @@
 # kmodbus
-English :
+# MAIN FLOW
+```
+![image](http://github.com/coyool/kmodus/raw/master/frame.png)
+```
+#English :
 1, 
 
-Chinese
+#Chinese
+```
 1, 这是一个Modbus程序库, 但它并不关联任何的收发机制。 用户输入一个数组ByteArray, 程序将返回一个ByteArray。用户不必要关心处理过程。
 2, 处理过程中,本模块会调用已经设定的读写函数(DbWrite和DbRead函数)完成数据处理或者其他任何操作
-
+```
 
 ## How to use. ##
 #### Initial a station pack. ####
