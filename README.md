@@ -1,6 +1,6 @@
 # kmodbus
 ```
-![MAIN FLOW](https://github.com/coyool/kmodbus/blob/master/frame.png)
+![MAIN FLOW](https://github.com/coyool/kmodbus/raw/master/frame.png)
 ```
 #English :
 1, 
